@@ -1,0 +1,35 @@
+{
+  "id": "animal-form-expanded",
+  "title": "Animal Form Expanded",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<p>A reworked version of Animal Form that heightens each form all the way to rank 10 and even integrates into untamed form with the use of the Shifter Aspect class feature.</p>",
+  "authors": [
+    {
+      "name": "Camron Greenwell",
+      "email": "camron2814@gmail.com",
+      "discord": "Gage98",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "Animal Form Expanded",
+      "path": "packs/pack-1",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
